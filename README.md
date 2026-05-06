@@ -25,4 +25,4 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento
 ## 📫 Entre em contato
 
 - E-mail: miguelantonio2005ofc@gmail.com
-- LinkedIn: [Miguel Antônio Mota Gonçalves](https://linkedin.com/in/miguel-antonio-mota-goncalves-b0a4252b9)
+- LinkedIn: [Miguel Antônio Mota Gonçalves](https://www.linkedin.com/in/miguel-ant%C3%B4nio-mota-gon%C3%A7alves-b0a4252b9/) 
